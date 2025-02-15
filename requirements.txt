@@ -124,3 +124,6 @@ pandas
 # Data visualization libraries
 matplotlib  # the foundation
 seaborn     # built on top of matplotlib
+
+# Machine Learning Library
+scikit-learn
